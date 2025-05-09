@@ -7,7 +7,7 @@ import Orders from './pages/Orders/Orders'
 
 import { ToastContainer} from 'react-toastify';
 
-const url = "https://cc-admin.onrender.com";
+const url = "https://cc-backend-9fq0.onrender.com";
 const App = () => {
   return (
     <div>
