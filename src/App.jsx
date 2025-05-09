@@ -6,7 +6,8 @@ import List from './pages/List/List'
 import Orders from './pages/Orders/Orders'
 
 import { ToastContainer} from 'react-toastify';
-const url = "https://foody-application-backend.onrender.com";
+
+const url = "https://cc-admin.onrender.com";
 const App = () => {
   return (
     <div>
